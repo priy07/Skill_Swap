@@ -76,11 +76,12 @@ skill_swap/
 │   ├── logo/              # Logos/images
 │   └── src/               # JS or other assets
 ```
-## 📸 Screenshots
-<img width="1819" height="836" alt="Screenshot 2025-08-19 231341" src="https://github.com/user-attachments/assets/1adb5f64-a75d-44c5-9f04-f2a9e842470a" />
-<img width="1919" height="1079" alt="Screenshot 2025-08-19 231147" src="https://github.com/user-attachments/assets/86eda0c4-5119-4c7f-96bf-b518547ed423" />
-<img width="1822" height="846" alt="Screenshot 2025-08-19 232415" src="https://github.com/user-attachments/assets/ec76a0e4-2312-46c0-aa54-fe51fb3dc4aa" />
-<img width="1918" height="877" alt="Screenshot 2025-08-19 232344" src="https://github.com/user-attachments/assets/d83a4ffb-b4f1-4337-9630-56c5012ea8b7" />
+## 📸 Screenshots 
+
+<img width="1253" height="851" alt="Screenshot 2025-08-28 230044" src="https://github.com/user-attachments/assets/4adf7113-59e2-45a6-80d9-4984cb13185f" />
+<img width="1822" height="846" alt="Screenshot 2025-08-19 232415" src="https://github.com/user-attachments/assets/737902bf-e3bf-45a4-89e0-df2e026ed774" />
+<img width="1918" height="877" alt="Screenshot 2025-08-19 232344" src="https://github.com/user-attachments/assets/0bdc9e87-b8f7-447f-b9ac-2b656f5807ca" />
+<img width="1819" height="836" alt="Screenshot 2025-08-19 231341" src="https://github.com/user-attachments/assets/68ecd8d3-faec-402d-bdda-443afa3a44ab" />
 
 ## 🤝 Contributing
 
