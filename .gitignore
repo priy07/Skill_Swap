@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+skill_swap.db
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+environment/
+
+# Node
+node_modules/
+static/css/output.css
+
+# Environment
+.env
+
+# Editors
+.vscode/
+.idea/
